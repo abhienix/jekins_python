@@ -50,7 +50,6 @@ pipeline {
 			}	
 
 			failure {
-			echo 'failure'
-} 
+			echo 'failure'  } 
 }
 }
