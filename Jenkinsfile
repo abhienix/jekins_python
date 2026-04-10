@@ -11,7 +11,7 @@ pipeline {
 
 
 
-			git branch : 'main' , url:'https://github.com/abhienix/jekins_python.git>
+			git branch : 'main' , url:'https://github.com/abhienix/jekins_python.git
 	}
 
 }
